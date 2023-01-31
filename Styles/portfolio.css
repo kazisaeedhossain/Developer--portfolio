@@ -30,7 +30,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 nav ul{
     display: flex;
@@ -175,3 +175,6 @@ main{
     font-size: 35px;
     line-height: 48px;
 } 
+.resume-container{
+    display: flex;
+}
